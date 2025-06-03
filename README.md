@@ -2,7 +2,9 @@
 
 SEO is a practice that optimizes web pages so they become more visible and rank higher on search engines.
 
-# HTML - The role of the meta tag and how it affects SEO 
+# HTML 
+
+## The role of the meta tag and how it affects SEO 
 
 One way to improve your site's SEO is to provide a short description for the web page using the **meta** element.  
 ```html
@@ -15,3 +17,14 @@ It is recommended to keep our description concise because search engines will of
 
 Even though meta descriptions won't directly affect a site's ranking on a search engine, having a strong description could result in more traffic to your site.  
 
+## The role of Open Graph Tags and how they affect SEO
+
+The open graph protocol enables you to control how your website's content appears across various social media platforms.  
+
+By setting the open graph properties, you can entice users to click and engage with your content.  
+You can set these properties through a collection of meta elements inside your HTML **head** section.  
+
+The first important OG property to include would be the **Title**:
+```html
+<meta content="Free
+```
