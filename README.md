@@ -22,9 +22,9 @@ Even though meta descriptions won't directly affect a site's ranking on a search
 The open graph protocol enables you to control how your website's content appears across various social media platforms.  
 
 By setting the open graph properties, you can entice users to click and engage with your content.  
-You can set these properties through a collection of meta elements inside your HTML **head** section.  
+You can set these properties through a collection of **meta** elements inside your HTML **head** section.  
 
-The first important OG property to include would be the **Title**:
+The first important OG property to include would be the **title**:
 ```html
-<meta content="Free
+<meta content="freeCodeCamp.org" property="og:title" />
 ```
