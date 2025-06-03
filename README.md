@@ -24,7 +24,32 @@ The open graph protocol enables you to control how your website's content appear
 By setting the open graph properties, you can entice users to click and engage with your content.  
 You can set these properties through a collection of **meta** elements inside your HTML **head** section.  
 
-The first important OG property to include would be the **title**:
+### property="og:title"
+
+The first important OG property to include would be the **title**. For example:
 ```html
 <meta content="freeCodeCamp.org" property="og:title" />
 ```
+The **content** attribute is where we need to write the title we want to be displayed for social media sites.  
+
+### property="og:type"
+
+The next important OG property would be the **type**.  
+```html
+<meta property="og:type" content="website" />
+```
+The **type** property is used to represent the type of content being shared on social media.  
+It can be articles, music, videos, or websites.  
+
+### property="og:image"
+
+Example:
+```html
+<meta
+  property="og:image"
+  content="https://path-to-image"
+/>
+```
+
+
+
