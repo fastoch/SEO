@@ -68,3 +68,6 @@ However, the 4 properties mentioned above are the most important ones to include
 
 ### How do these OG properties affect SEO?
 
+When your content is shared on social media, well used OG properties can enhance the appearance for your content in users' feeds.  
+This can lead to higher clickthrough rates, which could signal to search engines that your content is relevant and engaging.
+
