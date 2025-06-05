@@ -58,8 +58,13 @@ Most social media platforms will include criteria for image requirements to help
 
 ### property="og:url"
 
+Example: 
 ```html
 <meta property="og:url" content="https://www.freecodecamp.org" />
 ```
 
+There are many more OG properties that you can set: `og:video`, `og:audio`, `og:description`, `og:locale`, ...  
+However, the 4 properties mentioned above are the most important ones to include.  
+
+### How do these OG properties affect SEO?
 
