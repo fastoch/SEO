@@ -17,6 +17,8 @@ It is recommended to keep our description concise because search engines will of
 
 Even though meta descriptions won't directly affect a site's ranking on a search engine, having a strong description could result in more traffic to your site.  
 
+---
+
 ## The role of Open Graph Tags and how they affect SEO
 
 The open graph protocol enables you to control how your website's content appears across various social media platforms.  
@@ -51,5 +53,13 @@ Example:
 />
 ```
 
+Make sure the image quality is good.  
+Most social media platforms will include criteria for image requirements to help you ensure that your content displays well on their site.  
+
+### property="og:url"
+
+```html
+<meta property="og:url" content="https://www.freecodecamp.org" />
+```
 
 
